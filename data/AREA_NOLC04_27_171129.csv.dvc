@@ -1,0 +1,5 @@
+md5: 7217145932b05d16791bef283dc90cbf
+outs:
+- cache: true
+  md5: 7f42758a48056657c6e86b99cbf8f2ca
+  path: AREA_NOLC04_27_171129.csv
