@@ -1,0 +1,6 @@
+['remote "ceat-dvc"']
+url = s3://ceat-dvc/carbonseq_vaud
+region = ams3
+endpointurl = https://ams3.digitaloceanspaces.com
+[core]
+remote = ceat-dvc
