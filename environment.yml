@@ -1,0 +1,19 @@
+name: carbonseq_vaud
+channels:
+  - conda-forge/label/dev
+  - conda-forge
+  - defaults
+dependencies:
+  - cython=0.29=py27hfc679d8_0
+  - fiona=1.8.0=py27hfc77a4a_0
+  - geopandas=1.0.0.dev=py27_2
+  - ncurses=6.1=hfc679d8_1
+  - numpy=1.15.3=py27h1d66e8a_0
+  - osmnx=0.8.2=py_0
+  - pip:
+    - dvc[s3]==0.20.0
+    - ipykernel==4.10.0
+    - natcap.invest==3.5.0
+    - papermill==0.15.1
+    - rasterstats==0.13.0
+    - swisslandstats-geopy==0.4.1
