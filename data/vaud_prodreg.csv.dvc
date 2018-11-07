@@ -1,0 +1,21 @@
+cmd: cd .. && papermill prodreg.ipynb papermill_outputs/prodreg.ipynb
+deps:
+- md5: 9cce163321736921e3c4ba68130af0db
+  path: vaud_lulc.csv
+- md5: 46ae309506c52581143fe1659d315928
+  path: lfi_prodreg_19082011.dbf
+- md5: e05db6e5456b77a49623a9aebf4d11b6
+  path: lfi_prodreg_19082011.prj
+- md5: b902132bf443a72b48cfbf91d57bd7d6
+  path: lfi_prodreg_19082011.sbn
+- md5: 9816c1beeacc63c04f29cb2eaf571a80
+  path: lfi_prodreg_19082011.sbx
+- md5: ca90731f449a90567d2035085a9603e5
+  path: lfi_prodreg_19082011.shp
+- md5: d675c2a2548f184610dd93ab4d4dfd76
+  path: lfi_prodreg_19082011.shx
+md5: 21730d337bbbdd34d50f20913f7ae1dc
+outs:
+- cache: true
+  md5: aaf075f63f989c039982906830d6c37d
+  path: vaud_prodreg.csv
