@@ -1,0 +1,11 @@
+cmd: cd .. && papermill elevation.ipynb papermill_outputs/elevation.ipynb
+deps:
+- md5: 9cce163321736921e3c4ba68130af0db
+  path: vaud_lulc.csv
+- md5: b1638147fd61d6ab3d08ae355ffe92f2
+  path: swissALTI_reduced_res_lv95_3.tif
+md5: 96b06320eb659f496f914d5a80839b4f
+outs:
+- cache: true
+  md5: 4bcf7b859a12cae37aa35d1368c1245a
+  path: vaud_elevation.csv
