@@ -1,0 +1,13 @@
+cmd: cd .. && papermill merge_clip_reclassify.ipynb papermill_outputs/merge_clip_reclassify.ipynb
+deps:
+- md5: 7f42758a48056657c6e86b99cbf8f2ca
+  path: AREA_NOLC04_27_171129.csv
+- md5: b3eaf7e57802010c0a1341823742d167
+  path: AREA_NOLU04_46_171129.csv
+- md5: 65ff9b97967537d9c0629f6b38a5c02d
+  path: lulc_reclassify_map.json
+md5: fc23a39fe1bea83bb305eee797b5e7ac
+outs:
+- cache: true
+  md5: 9cce163321736921e3c4ba68130af0db
+  path: vaud_lulc.csv
