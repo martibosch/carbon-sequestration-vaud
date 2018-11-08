@@ -1,0 +1,15 @@
+cmd: cd .. && papermill assemble_ldf.ipynb papermill_outputs/assemble_ldf.ipynb
+deps:
+- md5: 9cce163321736921e3c4ba68130af0db
+  path: vaud_lulc.csv
+- md5: aaf075f63f989c039982906830d6c37d
+  path: vaud_prodreg.csv
+- md5: 4bcf7b859a12cae37aa35d1368c1245a
+  path: vaud_elevation.csv
+- md5: 783d4c5eb24fe34ae895f3bf160c3f05
+  path: vaud_orgsoil.csv
+md5: a65b6944da46ec71618d7258ba129f98
+outs:
+- cache: true
+  md5: 3a948acc8e71f3c3d47f50c12fcd4a73
+  path: vaud_ldf.csv
