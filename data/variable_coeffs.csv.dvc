@@ -1,0 +1,5 @@
+md5: 9d151bd31b064ff86703c416c8b83fbe
+outs:
+- cache: true
+  md5: 4fee5e0a43344ccc129f5ad3b6577bf3
+  path: variable_coeffs.csv

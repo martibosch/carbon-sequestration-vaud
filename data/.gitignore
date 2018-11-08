@@ -18,3 +18,5 @@ organic_soil_map.shp
 organic_soil_map.shx
 vaud_orgsoil.csv
 vaud_ldf.csv
+variable_coeffs.csv
+constant_coeffs.csv

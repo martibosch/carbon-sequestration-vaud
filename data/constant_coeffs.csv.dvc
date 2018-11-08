@@ -1,0 +1,5 @@
+md5: 43f755111f1393ce0649f962c8ea4068
+outs:
+- cache: true
+  md5: 92594ad0652112b3b2c555965f693f54
+  path: constant_coeffs.csv
