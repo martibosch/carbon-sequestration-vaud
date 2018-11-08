@@ -1,0 +1,19 @@
+cmd: cd .. && papermill orgsoil.ipynb papermill_outputs/orgsoil.ipynb
+deps:
+- md5: 9cce163321736921e3c4ba68130af0db
+  path: vaud_lulc.csv
+- md5: be4409cb38672ef2b3cd97e205b53027
+  path: organic_soil_map.dbf
+- md5: 0eee237913d3eef8accb6c65083b3ac2
+  path: organic_soil_map.prj
+- md5: fa9e9b783491207e673e32db4bbfbb1e
+  path: organic_soil_map.qpj
+- md5: 9a2e1a1f6891ff988457e86e9ea33a29
+  path: organic_soil_map.shp
+- md5: 0171ea5e74ed9bb5999a19b8e560aa4a
+  path: organic_soil_map.shx
+md5: b7c513cd520bdc87e8c508581ca8b221
+outs:
+- cache: true
+  md5: 783d4c5eb24fe34ae895f3bf160c3f05
+  path: vaud_orgsoil.csv
