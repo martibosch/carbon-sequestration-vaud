@@ -1,0 +1,5 @@
+md5: 9cf784ea0e23a0d52df6a651096d789b
+outs:
+- cache: true
+  md5: ca90731f449a90567d2035085a9603e5
+  path: lfi_prodreg_19082011.shp

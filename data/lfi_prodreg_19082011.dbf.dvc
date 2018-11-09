@@ -1,0 +1,5 @@
+md5: b7e3589c88aec8b1e5cd34a54115d71a
+outs:
+- cache: true
+  md5: 46ae309506c52581143fe1659d315928
+  path: lfi_prodreg_19082011.dbf

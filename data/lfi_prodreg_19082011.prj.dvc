@@ -1,0 +1,5 @@
+md5: 72c0c2d94bce8e622c14616995e74683
+outs:
+- cache: true
+  md5: e05db6e5456b77a49623a9aebf4d11b6
+  path: lfi_prodreg_19082011.prj

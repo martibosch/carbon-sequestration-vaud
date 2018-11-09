@@ -1,0 +1,5 @@
+md5: 85640fd6a80d8e65a442933605128ae5
+outs:
+- cache: true
+  md5: b902132bf443a72b48cfbf91d57bd7d6
+  path: lfi_prodreg_19082011.sbn
