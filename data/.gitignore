@@ -11,3 +11,9 @@ lfi_prodreg_19082011.shx
 vaud_prodreg.csv
 swissALTI_reduced_res_lv95_3.tif
 vaud_elevation.csv
+
+organic_soil_map.dbf
+organic_soil_map.prj
+organic_soil_map.qpj
+organic_soil_map.shp
+organic_soil_map.shx

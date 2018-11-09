@@ -1,0 +1,5 @@
+md5: 6125be369ea7090c9c0203b7c621fa49
+outs:
+- cache: true
+  md5: 9a2e1a1f6891ff988457e86e9ea33a29
+  path: organic_soil_map.shp

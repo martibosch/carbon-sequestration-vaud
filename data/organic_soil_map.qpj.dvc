@@ -1,0 +1,5 @@
+md5: e75c9e66d6af2c213c3ecdc1afe3f41a
+outs:
+- cache: true
+  md5: fa9e9b783491207e673e32db4bbfbb1e
+  path: organic_soil_map.qpj

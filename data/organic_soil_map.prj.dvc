@@ -1,0 +1,5 @@
+md5: 8ebb19fd17e46c5561934961236f2d44
+outs:
+- cache: true
+  md5: 0eee237913d3eef8accb6c65083b3ac2
+  path: organic_soil_map.prj
