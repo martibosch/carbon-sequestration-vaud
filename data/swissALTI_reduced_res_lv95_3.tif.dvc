@@ -1,0 +1,5 @@
+md5: f1a301727bca2dc86ae04f4943cf3b96
+outs:
+- cache: true
+  md5: b1638147fd61d6ab3d08ae355ffe92f2
+  path: swissALTI_reduced_res_lv95_3.tif
