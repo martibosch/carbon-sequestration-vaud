@@ -2,7 +2,11 @@
 
 ## Analysis DAG
 
-TODO
+Given how the Swiss Land Statistics datasets are provided (see [this for more info](https://github.com/martibosch/swisslandstats-geopy)), we work with "LandDataFrames", i.e., tables where each row correspond to an (x, y) geo-referenced pixel, and columns provide categorical information, such as the land use/land cover, elevation, production regions and organic soil. This information is used to compute the carbon stock with the InVEST's carbon model.
+
+![analysis-dag](analysis-dag.png)
+
+The results are displayed in [invest_carbon.ipynb](https://github.com/martibosch/carbon-sequestration-vaud/blob/master/invest_carbon.ipynb)
 
 ## Instructions to reproduce the repository
 
