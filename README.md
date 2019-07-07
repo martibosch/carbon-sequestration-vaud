@@ -1,5 +1,7 @@
 # Evaluation of the carbon sequestration for the canton of Vaud
 
+**Citation**: Jaligot, R., Chenal, J. & Bosch, M. "Assessing spatial temporal patterns of ecosystem services in Switzerland". *Landscape Ecol* (2019): 1-16. https://doi.org/10.1007/s10980-019-00850-7
+
 ## Analysis DAG
 
 Given how the Swiss Land Statistics datasets are provided (see [this for more info](https://github.com/martibosch/swisslandstats-geopy)), we work with "LandDataFrames", i.e., tables where each row correspond to an (x, y) geo-referenced pixel, and columns provide categorical information, such as the land use/land cover, elevation, production regions and organic soil. This information is used to compute the carbon stock with the InVEST's carbon model.
